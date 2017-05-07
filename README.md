@@ -1,5 +1,7 @@
 # txt-to-ast [![Build Status](https://travis-ci.org/textlint/txt-to-ast.svg?branch=master)](https://travis-ci.org/textlint/txt-to-ast)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/txt-to-ast.svg)](https://greenkeeper.io/)
+
 Parse plain text to AST with location info.
 
 This library is a part of [textlint/textlint](https://github.com/textlint/textlint "textlint/textlint").
